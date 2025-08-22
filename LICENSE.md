@@ -1,4 +1,4 @@
-Este es un archivo legal que define cómo nosotros podemos usar este proyecto.
+Este es un archivo legal que define cómo cualquier persona puede usar este proyecto.
 Indica si se puede copiar, modificar, redistribuir, usar comercialmente, etc
 
 Copyright (c) 2025 Equipo IoT Melipilla
